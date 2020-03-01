@@ -1,11 +1,12 @@
 # Go
 Fun with Go!
+
 Best place to start:
 https://tour.golang.org/welcome/1
 
 Other online resources I have referred to for deeper dive:
-  Youtube channel from jakewright
-  Exercises:  https://gophercises.com/
+  Youtube channel from jakewright.
+  and exercises from https://gophercises.com/
   
 You will see that those develish pointers are back!!! dont worry memory management is taken care.
 
