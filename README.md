@@ -14,6 +14,11 @@ Concurrency is nicely done here. I have put up a folder with demo examples from 
 comments and printf statements for better understanding Channel buffers. Try playing with the Channels to understand how can
 you run into deadlocks.
 
+Example:
+https://github.com/bugsravan/Go/blob/master/Concurrency/goTourDemo.go
+In here, instead of using a 'case' as c<-x (commented out) try with 'default' and see what happens.   
+
+
 
 
 
